@@ -7,7 +7,7 @@
 - Solid understanding of fundamental programming, especially in C (dynamic memory allocation included)
 - Having a basic understanding of computer systems.
 - A basic knowledge in any domain of Computer Science helps here, because where there are systems there is a need for security.
-- *System requirements*: The project is aimed at testing malware by running it in a virtual network of virtual machines, all of which is demanding on their RAM, CPU and Storage. Its also preffered for the mentor to have their preffered linux distro **dual booted** in their laptops/PC.
+- *System requirements*: The project is aimed at testing malware by running it in a virtual network of virtual machines, all of which is demanding on their RAM, CPU and Storage. Its also preffered for the members to have their preffered linux distro **dual booted** in their laptops/PC.
 
 ## Project Timeline (Tentative)
 |Time|To learn|
